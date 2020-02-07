@@ -1,0 +1,1 @@
+Module 9 - Implement Directory Synchronization does not require any lab files

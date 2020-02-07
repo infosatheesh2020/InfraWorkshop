@@ -1,0 +1,1 @@
+Module 10 - Self Service Password Reset does not require lab files
